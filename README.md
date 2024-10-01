@@ -16,6 +16,7 @@
 12. **Python Operators**
 13. **Conditional Statements in Python**
 14. **Data Types in Python**
+[View Lesson 1](https://github.com/Aniket4931/Python_is_Easy/blob/main/Lesson_1.ipynb)
 
 ---
 
