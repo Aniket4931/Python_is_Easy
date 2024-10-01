@@ -27,7 +27,7 @@
 17. **What is a Tuple in Python?**
 18. **What is a Dictionary in Python?**
 19. **What is a Set in Python?** <br>
-[View Lesson 2] (https://github.com/Aniket4931/Python_is_Easy/blob/main/Lesson_2%20.ipynb)
+[View Lesson 2](https://github.com/Aniket4931/Python_is_Easy/blob/main/Lesson_2%20.ipynb)
 
 ---
 
@@ -41,7 +41,7 @@
 25. **Exceptions in Python**
 26. **The `raise` Keyword in Python**
 27. **Python Modules** <br>
-[View Lesson 3] (https://github.com/Aniket4931/Python_is_Easy/blob/main/Lesson_3.ipynb)
+[View Lesson 3](https://github.com/Aniket4931/Python_is_Easy/blob/main/Lesson_3.ipynb)
 
 
 
