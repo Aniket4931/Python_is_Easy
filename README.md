@@ -15,7 +15,7 @@
 11. **Python Keywords**
 12. **Python Operators**
 13. **Conditional Statements in Python**
-14. **Data Types in Python**
+14. **Data Types in Python** <br>
 [View Lesson 1](https://github.com/Aniket4931/Python_is_Easy/blob/main/Lesson_1.ipynb)
 
 ---
