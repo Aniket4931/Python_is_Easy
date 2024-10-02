@@ -53,7 +53,7 @@
 30. **Inheritance in Python**
 31. **Polymorphism**
 32. **Encapsulation** <br>
-**Mini Project: Kirana Store** <br>
+***Mini Project: Kirana Store*** <br>
 [View Lesson 4](https://github.com/Aniket4931/Python_is_Easy/blob/main/Lesson_4.ipynb)
 
 
