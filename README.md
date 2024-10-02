@@ -50,8 +50,10 @@
 27. **Object-Oriented Programming (OOP)**
 28. **Classes and Objects in Python**
 29. **Constructor in Python**
-30. **Polymorphism**
-31. **Mini Project: Kirana Store** <br>
+30. **Inheritance in Python**
+31. **Polymorphism**
+32. **Encapsulation**
+**Mini Project: Kirana Store** <br>
 [View Lesson 4](https://github.com/Aniket4931/Python_is_Easy/blob/main/Lesson_4.ipynb)
 
 
