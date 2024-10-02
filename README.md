@@ -52,7 +52,7 @@
 29. **Constructor in Python**
 30. **Polymorphism**
 31. **Mini Project: Kirana Store** <br>
-[View Lesson 3](https://github.com/Aniket4931/Python_is_Easy/blob/main/Lesson_4.ipynb)
+[View Lesson 4](https://github.com/Aniket4931/Python_is_Easy/blob/main/Lesson_4.ipynb)
 
 
 
